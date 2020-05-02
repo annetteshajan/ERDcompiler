@@ -1,0 +1,12 @@
+body {
+  margin: 50pt;
+  padding: 10pt;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.main {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 30em;
+}
